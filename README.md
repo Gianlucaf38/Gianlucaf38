@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gianluca and I'm a Computer Engineer from Naples, Italy.</h2>
+<h2 align="left">Hi 👋! My name is Gianluca and I'm a Computer Engineer Student from Naples, Italy.</h2>
 
 ###
 
